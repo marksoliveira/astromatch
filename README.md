@@ -15,7 +15,8 @@ botão que limpa as informações dos matches que foram dados.
 A tela de "Matches" é constituída de uma lista de usuários que "deram match" 
 com o usuário que estiver usando a aplicação. São mostrados as fotos e os 
 nomes dos perfis.
-Há integrações com APIs externas. Biblioteca utilizada: axios
+Há integrações com APIs externas. 
+Bibliotecas: axios e styled-components
 
 ## Instruções para rodar
 Por ser um projeto com ReactJS, há a necessidade do NodeJS. Com ele em 
