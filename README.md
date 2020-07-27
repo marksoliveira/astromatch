@@ -10,8 +10,9 @@ Esse foi um dos primeiros projetos que fiz em React.
 Ao acessar a aplicação (tela Profile), são mostrados a foto, o nome e a descrição
 de perfis aleatórios, e dois botões: um que permite "dar *match*" (uma 
 escolha "positiva") e outro que descarta a sugestão (uma escolha "negativa").
-Também há um botão que o leva para a tela de matches, e por fim, um outro 
+Também há um botão que leva o usuário para a tela de matches, e por fim, um outro 
 botão que limpa as informações dos matches que foram dados.
+
 A tela de "Matches" é constituída de uma lista de usuários que "deram match" 
 com o usuário que estiver usando a aplicação. São mostrados as fotos e os 
 nomes dos perfis.
